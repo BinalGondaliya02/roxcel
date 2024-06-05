@@ -1,0 +1,221 @@
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .header__padding {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .portfolio__item .portfolio__thumb .fix_image {
+    height: 377px;
+  }
+  .why__bg::after {
+    width: 59.3%;
+  }
+  .why__bg {
+    background: white;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .header__padding {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .slider_main .slider__content .slider__title {
+    font-size: 90px;
+    color: #ffffff;
+    line-height: 91px;
+    font-weight: 700;
+    margin-bottom: 50px;
+  }
+  .why__thumb {
+    margin-left: 0px;
+  }
+  .why__thumb img {
+    width: 100%;
+  }
+  .why__wrapper {
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-bottom: 30px;
+  }
+  .slider_box {
+    width: 417px;
+    height: auto;
+    padding: 60px 65px;
+    padding-bottom: 50px;
+  }
+  .features__item-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .features__wrapper-border::after {
+    right: 9px;
+  }
+  .services__sidebar .services__widget {
+    padding: 0;
+    border: 1px solid #eaeaea;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .header__padding {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .slider_main .slider__content .slider__title {
+    font-size: 70px;
+    line-height: 81px;
+  }
+  .about__content {
+    margin-top: 50px;
+    padding-left: 0;
+  }
+  .portfolio__padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .why__wrapper .why__inner .why__content .why__title {
+    font-size: 15px;
+  }
+  .slider_box .testimonial__avater-info h4 {
+    margin-left: 185px;
+  }
+  .pr-70 {
+    padding-right: 0px;
+  }
+  .port_details-info .port_details-info-item {
+    min-width: 250px;
+    border-bottom: 1px solid #0e5551;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+  }
+  .member-qualification h4 {
+    padding-top: 20px;
+  }
+  .postbox__content {
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .header__padding {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .slider_main .slider__content .slider__title {
+    font-size: 60px;
+    line-height: 59px;
+  }
+  .owl-nav .owl-prev {
+    position: absolute;
+    bottom: 410px;
+    left: 0px;
+  }
+  .owl-nav .owl-next {
+    position: absolute;
+    bottom: 410px;
+    right: 3px;
+  }
+  .about__content {
+    margin-top: 50px;
+    padding-left: 0;
+  }
+  .section__title-wrapper .section__title {
+    font-size: 38px;
+    line-height: -1;
+    font-weight: 900;
+    letter-spacing: 1px;
+  }
+  .pr-55 {
+    padding-right: 0;
+  }
+  .pl-55 {
+    padding-left: 0;
+  }
+  .why__wrapper {
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-bottom: 30px;
+    margin-left: 0;
+  }
+  .slider_box .testimonial__avater-info h4 {
+    margin-left: 60px;
+  }
+  .f_ll {
+    padding-left: 0px;
+  }
+  .f_rr {
+    padding-right: 0px;
+  }
+  .pr-70 {
+    padding-right: 0px;
+  }
+  .page__title-wrapper .page__title {
+    font-size: 65px;
+  }
+  .member-qualification h4 {
+    padding-top: 20px;
+  }
+  .postbox__content {
+    padding: 0;
+  }
+}
+@media (max-width: 575px) {
+  .header__padding {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .slider_main .slider__content {
+    text-align: center;
+  }
+  .slider_main .slider__content .slider__title {
+    font-size: 37px;
+    line-height: 28px;
+  }
+  .pl-60 {
+    padding-left: 0;
+  }
+  .about__content {
+    margin-top: 50px;
+    padding-left: 0;
+  }
+  .section__title-wrapper .section__title {
+    font-size: 30px;
+  }
+  .pr-55 {
+    padding-right: 0;
+  }
+  .pl-55 {
+    padding-left: 0;
+  }
+  .ml-35 {
+    margin-left: 0;
+  }
+  .why__wrapper {
+    padding-left: 0;
+  }
+  .why__wrapper .why__inner .why__item {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .slider_box .testimonial__avater-info h4 {
+    margin-left: 100px;
+  }
+  .f_ll {
+    padding-left: 5px;
+  }
+  .page__title-wrapper .page__title {
+    font-size: 45px;
+  }
+  .pr-50 {
+    padding-right: 0px;
+  }
+  .member-qualification h4 {
+    padding-top: 20px;
+  }
+  .postbox__content {
+    padding: 0;
+  }
+}/*# sourceMappingURL=media.css.map */
